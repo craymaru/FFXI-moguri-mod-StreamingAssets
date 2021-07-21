@@ -1,0 +1,12 @@
+*.bin
+*.bytes
+*.dll
+*.dll.*
+*.exe
+*.exe.*
+*.pdb
+*.png
+/Scripts/Compiler
+/Scripts/Project
+/Shaders
+/ma
